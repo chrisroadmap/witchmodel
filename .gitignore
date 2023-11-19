@@ -1,0 +1,12 @@
+# OS junk
+*.DS_Store
+
+# WITCH input
+data_witch17/
+data_witch13/
+
+# GAMS output
+conopt.opt
+run_witch.lst
+*.gdx
+errors*.txt
